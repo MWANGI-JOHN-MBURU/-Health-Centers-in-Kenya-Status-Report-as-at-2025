@@ -1,8 +1,10 @@
-# -Health-Centers-in-Kenya-Status-Report-as-at-2025
-📊 Overview
+# Health-Centers-in-Kenya-Status-Report-as-at-2025
+
+## Overview
+
 As of 2025, Kenya has a total of 14,072 health facilities across various levels and types, with a combined bed capacity of approximately 148,000 beds. This reflects a widespread healthcare network serving the country's diverse counties and population needs.
 
-##🏥 Key Metrics
+## 🏥 Key Metrics
 Total Health Facilities: 14,072
 
 Total Bed Capacity: 148,000 beds
@@ -19,7 +21,7 @@ Nursing Homes: 998
 
 Level 4 Hospitals: 821
 
-##🏷️ Facility Types Summary
+## 🏷️ Facility Types Summary
 Facility Type	No. of Facilities
 Medical Clinic	2,897
 Medical Centre	1,655
@@ -39,7 +41,7 @@ Secondary Care Hospital	1
 Faith-Based Dispensary	82
 Other specialized/mission/faith-based centers	[Varies]
 
-##🏗️ Facility Distribution by Level
+## 🏗️ Facility Distribution by Level
 The majority of health facilities are Level 2, followed by Level 3A and Level 3B:
 
 Level	No. of Facilities
@@ -53,19 +55,23 @@ Levels 4B, 6A, 6B	Minor representation
 📈 Insight: Lower-level health facilities dominate the system, reflecting an emphasis on primary and community healthcare access.
 
 🗺️ Regional Insights
-The dashboard includes county-level filtering (e.g., Baringo, Bungoma, Bomet) with a map visualization, allowing geographic tracking of health infrastructure.
+The dashboard includes county-level filtering with a map visualization, allowing geographic tracking of health infrastructure.
 
 Counties are color-coded to visualize facility distribution spatially across Kenya.
 
-##📌 Observations & Recommendations
-###✅ Observations
+<img width="1189" height="685" alt="Screenshot 2025-08-12 095434" src="https://github.com/user-attachments/assets/ccba6d71-022d-4baf-8a17-cda4b9282eeb" />
+
+
+## 📌 Observations & Recommendations
+### ✅ Observations
 Primary health facilities (Levels 2 and 3) account for the vast majority of centers.
 
 There’s a substantial number of faith-based and private health facilities, highlighting the contribution of non-governmental actors.
 
 High concentration of medical clinics and nursing homes suggests a growing demand for accessible outpatient and elderly care services.
+Nairobi county is leading with high number of health facilities amounting to 1715, isiolowithe least,61.
 
-###🔄 Recommendations
+### 🔄 Recommendations
 Upgrade Lower-Level Facilities
 Investment is needed to upgrade Level 2 and 3A facilities to higher-capacity centers, especially in underserved counties.
 
